@@ -1,7 +1,4 @@
 # CollegeGyan_bot
-Amazon Lambda
 
 
-This is a chatbot built using Amazon Lex integrated with Facebook Messenger which interacts with the user to guide and suggest him/her through their college admission procedure.
-
-Search for the page CollegeGyan on Facebook and ping up! 
+This is a chatbot built using Amazon Lex and Amazon Lambda which interacts with the user to guide and suggest him/her through his/her college admission procedure and college applications!
