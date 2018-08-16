@@ -58,13 +58,6 @@ response_table["ca"] = response_table["chartered accountancy (ca)"]
 
 
 
-
-
-
-
-
-
-
 def lambda_handler(event, context):
     # print(event)
     subject_name = event["currentIntent"]["slots"]["Stream"]
