@@ -1,4 +1,4 @@
-# CollegeGyan_chatbot (https://collegegyan.slack.com/)
+# CollegeGyan_chatbot (https://collegegyan.slack.com/apps/AC9LXS0UD-collegegyan?next_id=0)
 Start chatting with a 'Hi' or 'Hello' or 'Hey',etc.
 
 
