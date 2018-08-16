@@ -2,7 +2,10 @@
 Start chatting with a 'Hi' or 'Hello' or 'Hey',etc.
 
 
+
+
 This is an open-source chatbot built using Amazon Lex and Amazon Lambda function.
+
 
 This app has data scraped and collected from various sites about the various colleges of India(as of now), and interacts with the user to guide him/her through their college admission and application procedures according to their pursued stream in +2 school level and their subject interests.
 
