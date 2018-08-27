@@ -16,4 +16,6 @@ Just fork/clone the repo and send Pull Requests after committing.
 
 2. If the user has already given an examination for a university, then the bot will be able to predict his/her chances of getting into the particular university based on the score using an ML algorithm.
 
+3. Build an entire Android app of the same to launch it in the market.
+
 Note: Any other updates are always welcome!
